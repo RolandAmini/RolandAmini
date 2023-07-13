@@ -1,4 +1,4 @@
-[![MasterHead]( https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+![MasterHead]( https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Roland Amini</h1>
 <h3 align="center">Software Developer from kenya</h3>
 <img src="https://digitaledgetech.in/images/Banner_02_new.gif" alt="chill-coding">
