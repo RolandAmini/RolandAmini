@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/isaac_roland02" target="blank"><img src="https://img.shields.io/twitter/follow/isaac_roland02?logo=twitter&style=for-the-badge" alt="isaac_roland02" /></a> </p>
 
-- 🌱 I’m currently looking for **JOB**
+- 🌱 I’m currently looking for a**JOB**
 
 - 📫 How to reach me **aminiroland01@gmail.com**
 
