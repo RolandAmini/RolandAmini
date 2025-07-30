@@ -1,107 +1,44 @@
-<!-- Banner Header -->
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+<!-- Banner -->
+![banner](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 
-<h1 align="center">Hi 👋, I'm Roland Amini</h1>
-<h3 align="center">Full Stack Developer | Passionate about Web Apps & Real-Time Systems</h3>
-
-<img src="https://digitaledgetech.in/images/Banner_02_new.gif" alt="coding-animation" width="100%"/>
-
----
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Roland Amini 👨‍💻</h1>
+<h3 align="center">Full-Stack Web Developer | Real-Time Systems Builder | MongoDB & Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rolandamini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/isaac_roland02" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/isaac_roland02?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+  <a href="https://github.com/rolandamini">
+    <img src="https://komarev.com/ghpvc/?username=rolandamini&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ✨ About Me
 
-- 🔎 Currently **looking for new opportunities** as a developer
-- 🌍 Based in **Kenya**
-- 💻 Passionate about **building modern web apps** and **real-time messaging systems**
-- 📬 Contact me at **aminiroland01@gmail.com**
-- 😄 Fun fact: **I love debugging and I’m actually pretty funny!**
+🎯 **Mission**: Build, Solve, Connect  
+💻 I'm a passionate **full-stack developer** from Kenya, specializing in crafting intuitive, scalable and real-time web applications.  
+🔥 I enjoy working with **Next.js**, **MongoDB**, and **Socket.IO** to build solutions that make a real impact.
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/isaac_roland02" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/roland-amini" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/roland_amini" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rolandamini" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+🚀 Whether it's designing clean user interfaces or developing powerful backends, I aim to **create with purpose**.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 📫 Contact Me
 
-#### 💡 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
-#### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40"/>
-</p>
-
-#### 🗄️ Databases & Auth
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-</p>
-
-#### 🛠️ Tools & Workflow
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40"/>
-  <img src="https://seeklogo.com/images/V/vercel-logo-F748E6E5A0-seeklogo.com.png" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40"/>
-</p>
+- 📧 Email: **aminiroland01@gmail.com**
+- 🌍 Portfolio: *()*
+- 🐦 Twitter: [@isaac_roland02](https://twitter.com/isaac_roland02)
+- 💼 LinkedIn: [Roland Amini](https://linkedin.com/in/roland-amini)
+- 💻 Instagram: [roland_amini](https://instagram.com/roland_amini)
+- 🎯 HackerRank: [rolandamini](https://www.hackerrank.com/rolandamini)
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolandamini&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolandamini" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rolandamini&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+**Languages**  
+`HTML` `CSS` `JavaScript` `TypeScript` `Node.js`
 
----
+**Frontend**  
+`React.js` `Next.js` `Tailwind CSS`
 
-### 🚀 Projects I'm proud of
-> *amboseli-lewis-sms-btap.vercel.app*
-
----
-
-### 🙌 Let’s Connect and Build Something Amazing!
-
-
+**Backe**
